@@ -65,11 +65,11 @@ ul {
   font-size: 2.5rem;
   font-family: 'Exo 2', sans-serif;
 }
+
 #simplemodal-container .simplemodal-data {
     padding: 5px 8px;
     overflow: hidden;
     background-color: white;
-    border-radius: 3px;
     font-style: italic;
 }
 /** Social Button Styles **/
